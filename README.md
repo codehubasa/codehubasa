@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on An Explainable AI-based multi-disease detection system for brain tumors, skin cancer, lung diseases, heart attack risk, and eye cataracts along with several other auxilliary features.I am currently exploring deep learning, model optimization, and full-stack integration to deploy intelligent healthcare solutions.<br>👯 I’m looking to collaborate on AI/ML projects, full-stack web development, and intelligent applications across diverse domains including healthcare, education, and beyond.<br>🤝
+🔭 I’m currently working on An Explainable AI-based multi-disease detection system for brain tumors, skin cancer, lung diseases, heart attack risk, and eye cataracts along with several other auxilliary features.I am currently exploring deep learning, model optimization, and full-stack integration to deploy intelligent healthcare solutions.<br>👯 I’m looking to collaborate on AI/ML projects, full-stack web development, and intelligent applications across diverse domains including healthcare, education, and beyond.<br>🤝I’m looking for help with  
+Backend development (Node.js / databases) and improving real-time data handling.
+I’m currently learning  Full-stack development, database management, and cloud integration.
+Ask me about  HTML, CSS, Tailwind, Java basics, and building responsive web applications.  
+I love combining technology with real-world solutions 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asmita Banerjee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:banerjeeasmita19@gmail.com) 
