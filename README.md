@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Machine+Learning+Explorer;Full+Stack+Web+Developer;Building+Projects+that+Matter+🚀;Always+Learning+%26+Growing" />
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Visitors+are+checking+my+profile+👀;Welcome+to+my+GitHub!;Keep+Exploring+🚀" />
+</p>
 
 
 # 💫 About Me:
