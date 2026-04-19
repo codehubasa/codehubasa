@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asmita-Banerjee&label=👀%20Profile%20Visitors&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Asmita-Banerjee&label=👀%20Profile%20Visitors&color=8A2BE2&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Visitors+are+viewing+my+profile+👀;Welcome+to+my+GitHub!;Keep+Exploring+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=500&lines=Visitors+are+viewing+my+profile+👀;Welcome+to+my+GitHub!;Keep+Exploring+🚀" />
 </p>
 
 
