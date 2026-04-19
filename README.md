@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/codehubasa">
-    <img src="https://img.shields.io/github/followers/codehubasa?label=Followers&style=social" />
+  <a href="https://github.com/Ankana-Sadhukhan">
+    <img src="https://img.shields.io/github/followers/Asmita-Banerjee?label=Followers&style=social" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Asmita Banerjee&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Asmita-Banerjee&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count" />
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Learning-Deep%20Learning%20%26%20Django-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat-square" />
 </p>
+
 
 
 
