@@ -7,7 +7,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.followers&url=https://api.github.com/users/Asmita-Banerjee&style=for-the-badge&color=00F7FF&logo=github" />
+</p>
 
 
 # 💫 About Me:
