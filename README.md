@@ -1,3 +1,26 @@
+<h1 align="center">Hi 👋, I'm <span style="color:#00F7FF;">Asmita Banerjee</span></h1>
+
+<h3 align="center">🚀 AI/ML Enthusiast | 💻 Full-Stack Developer | 🌱 Open to Learning</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Machine+Learning+Explorer;Full+Stack+Web+Developer;Building+Projects+that+Matter+🚀;Always+Learning+%26+Growing" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/codehubasa">
+    <img src="https://img.shields.io/github/followers/codehubasa?label=Followers&style=social" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Asmita Banerjee&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web%20Development-00F7FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Deep%20Learning%20%26%20Django-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat-square" />
+</p>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on An Explainable AI-based multi-disease detection system for along with several other auxilliary features.I am currently exploring deep learning, model optimization, and full-stack integration to deploy intelligent healthcare solutions.<br>👯 I’m looking to collaborate on AI/ML projects, full-stack web development, and intelligent applications across diverse domains including healthcare, education, and beyond.<br>🤝I’m looking for help with  Backend development (Node.js / databases) and improving real-time data handling.
 I’m currently learning  Full-stack development, database management, and cloud integration.
