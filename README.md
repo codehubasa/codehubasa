@@ -6,7 +6,7 @@ I love combining technology with real-world solutions
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmita-banerjee-874461364/
+Linkedin: https://www.linkedin.com/in/asmita-banerjee-874461364/
 
 Email ID: banerjeeasmita19@gmail.com
 
