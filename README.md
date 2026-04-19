@@ -32,5 +32,3 @@ Email ID: banerjeeasmita19@gmail.com
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-![Snake animation](https://github.com/Asmita-Banerjee/Asmita-Banerjee/blob/output/github-contribution-grid-snake.svg)
