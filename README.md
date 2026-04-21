@@ -15,10 +15,12 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on An Explainable AI-based multi-disease detection system for along with several other auxilliary features.I am currently exploring deep learning, model optimization, and full-stack integration to deploy intelligent healthcare solutions.<br>👯 I’m looking to collaborate on AI/ML projects, full-stack web development, and intelligent applications across diverse domains including healthcare, education, and beyond.<br>🤝I’m looking for help with  Backend development (Node.js / databases) and improving real-time data handling.
-I’m currently learning  Full-stack development, database management, and cloud integration.
-Ask me about  HTML, CSS, Tailwind, Java basics, and building responsive web applications.  
-I love combining technology with real-world solutions 
+🔭 Working on an Explainable AI-based multi-disease detection system with smart auxiliary features  
+🌱 Exploring deep learning, model optimization & full-stack integration  
+👯 Open to collaborate on AI/ML and full-stack projects (healthcare, education & more)  
+🤝 Seeking help with backend (Node.js, databases) & real-time data handling  
+💬 Ask me about HTML, CSS, Tailwind, Java & responsive web apps  
+🚀 Passionate about solving real-world problems using technology
 
 <h2 align="center">🎯 Currently Working On</h2>
 
