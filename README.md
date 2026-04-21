@@ -81,7 +81,9 @@ Email ID: banerjeeasmita19@gmail.com
 </p>
 
 
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codehubasa&theme=tokyonight" width="100%"/>
+</p>
 
 <p align="center">
   <i>"Building solutions that actually solve real-world problems."</i>
