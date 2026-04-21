@@ -15,6 +15,10 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=100%" width="100%"/>
+</p>
+
 # 💫 About Me:
 🔭 Working on an Explainable AI-based multi-disease detection system with smart auxiliary features  
 🌱 Exploring deep learning, model optimization & full-stack integration  
@@ -38,6 +42,10 @@
 | 🌱 Learning | Backend optimization & AI integration |
 | 🚀 Goal | Deploy scalable real-world applications |
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=100%" width="100%"/>
+</p>
+
 
 ## 🌐 Socials:
 
@@ -45,11 +53,13 @@ Linkedin: https://www.linkedin.com/in/asmita-banerjee-874461364/
 
 Email ID: banerjeeasmita19@gmail.com
 
+
 # 💻 Tech Stack:
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,django,mongodb,mysql,git,github" />
 </p>
+
 
 
 # 📊 GitHub Stats:
@@ -72,4 +82,8 @@ Email ID: banerjeeasmita19@gmail.com
 
 <p align="center">
   <i>"Building solutions that actually solve real-world problems."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=100%" width="100%"/>
 </p>
