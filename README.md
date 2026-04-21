@@ -69,12 +69,12 @@ Email ID: banerjeeasmita19@gmail.com
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codehubasa&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=codehubasa&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codehubasa&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=codehubasa&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codehubasa&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codehubasa&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 </p>
 
 
