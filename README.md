@@ -90,5 +90,5 @@ Email ID: banerjeeasmita19@gmail.com
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=100%" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:2c5364&height=120&section=footer"/>
 </p>
