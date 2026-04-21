@@ -81,9 +81,7 @@ Email ID: banerjeeasmita19@gmail.com
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
-</p>
+
 
 <p align="center">
   <i>"Building solutions that actually solve real-world problems."</i>
