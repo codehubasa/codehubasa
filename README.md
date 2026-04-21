@@ -76,6 +76,9 @@ Email ID: banerjeeasmita19@gmail.com
 
 
 ---
+
+<h2 align="center">📈 Activity Overview</h2>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codehubasa&theme=tokyo-night" />
 </p>
