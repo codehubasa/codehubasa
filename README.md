@@ -49,9 +49,20 @@
 
 ## 🌐 Socials:
 
-Linkedin: https://www.linkedin.com/in/asmita-banerjee-874461364/
 
-Email ID: banerjeeasmita19@gmail.com
+<p align="center">
+  <a href="https://github.com/codehubasa">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/asmita-banerjee-874461364/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:banerjeeasmita19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 
 # 💻 Tech Stack:
@@ -77,7 +88,7 @@ Email ID: banerjeeasmita19@gmail.com
 
 ---
 
-<h2 align="center">📈 Activity Overview</h2>
+<h2 align="left">📈 Activity Overview</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codehubasa&theme=tokyo-night" />
