@@ -66,14 +66,18 @@ Email ID: banerjeeasmita19@gmail.com
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Codehubasa&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Codehubasa&theme=rose_pine&hide_border=false)<br/>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codehubasa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codehubasa&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codehubasa&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=codehubasa&theme=tokyonight&hide_border=true" height="200"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codehubasa&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
+</p>
+
+
 ---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codehubasa&theme=tokyo-night" />
