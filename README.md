@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Machine+Learning+Explorer;Full+Stack+Web+Developer;Building+Projects+that+Matter+🚀;Always+Learning+%26+Growing" />
 </p>
 
+
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=codehubasa&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
@@ -24,34 +25,18 @@
 
 
 
-<h2 align="center">🎯 Currently Working On</h2>
 
-<table align="center">
-<tr>
-  <th>🚀 Focus Area</th>
-  <th>💡 Details</th>
-</tr>
-<tr>
-  <td>🔭 Project</td>
-  <td>
-    <a href="https://github.com/codehubasa/Kisan-chikitsa">
-      <b>KisanChikitsa</b>
-    </a> – Agriculture support web application
-  </td>
-</tr>
-<tr>
-  <td>⚙️ Tech Stack</td>
-  <td>Django • React • AI/ML</td>
-</tr>
-<tr>
-  <td>🌱 Learning</td>
-  <td>Backend optimization & AI integration</td>
-</tr>
-<tr>
-  <td>🚀 Goal</td>
-  <td>Deploy scalable real-world applications</td>
-</tr>
-</table>
+
+
+
+## 🎯 Currently Working On
+
+| 🚀 Focus Area | 💡 Details |
+|--------------|----------|
+| 🔭 Project | KisanChikitsa – Agriculture support web app |
+| ⚙️ Tech Stack | Django • React • AI/ML |
+| 🌱 Learning | Backend optimization & AI integration |
+| 🚀 Goal | Deploy scalable real-world applications |
 
 
 ## 🌐 Socials:
@@ -60,8 +45,9 @@ Linkedin: https://www.linkedin.com/in/asmita-banerjee-874461364/
 Email ID: banerjeeasmita19@gmail.com
 
 # 💻 Tech Stack:
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,python,js,html,css,git" />
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,django,mongodb,mysql,git,github" />
 </p>
 
 
