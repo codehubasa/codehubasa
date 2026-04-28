@@ -99,6 +99,10 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&width=100%" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codehubasa&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
