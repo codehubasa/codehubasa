@@ -76,8 +76,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codehubasa&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codehubasa&layout=compact&theme=tokyonight&hide_border=true" width="36%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codehubasa&show_icons=true&theme=tokyonight&hide_border=true" width="54%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codehubasa&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
@@ -96,6 +96,10 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codehubasa&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codehubasa&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 <p align="center">
