@@ -20,12 +20,7 @@
 </p>
 
 # 💫 About Me:
-🔭 Working on an Explainable AI-based multi-disease detection system with smart auxiliary features  
-🌱 Exploring deep learning, model optimization & full-stack integration  
-👯 Open to collaborate on AI/ML and full-stack projects (healthcare, education & more)  
-🤝 Seeking help with backend (Node.js, databases) & real-time data handling  
-💬 Ask me about HTML, CSS, Tailwind, Java & responsive web apps  
-🚀 Passionate about solving real-world problems using technology
+🔭 Current Focus: Engineering end-to-end solutions as a Full-Stack Developer.
 
 
 
