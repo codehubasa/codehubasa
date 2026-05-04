@@ -24,7 +24,7 @@
 💡 Philosophy: Translating intricate concepts into streamlined, high-impact products.
 ⚡ Beyond the 9-to-5: Crafting custom solutions through freelance projects.
 💬 Let’s Talk: Full-stack architecture, AI-driven applications, or the art of content strategy.
-
+🤝 Open For: Creative collaborations, mentoring rising talent, and contributing to open-source.
 
 
 
