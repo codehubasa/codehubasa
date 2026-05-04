@@ -21,7 +21,7 @@
 
 # 💫 About Me:
 🔭 Current Focus: Engineering end-to-end solutions as a Full-Stack Developer.
-
+💡 Philosophy: Translating intricate concepts into streamlined, high-impact products.
 
 
 
