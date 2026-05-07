@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00F7FF;">Asmita Banerjee</span></h1>
 
-<h3 align="center">🚀 AI/ML Enthusiast | 💻 Full-Stack Developer | 🌱 Open to Learning</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | 💻 Full-Stack Developer | 🌱 Open to </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Machine+Learning+Explorer;Full+Stack+Web+Developer;Building+Projects+that+Matter+🚀;Always+Learning+%26+Growing" />
