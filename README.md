@@ -36,7 +36,7 @@
 
 | 🚀 Focus Area | 💡 Details |
 |--------------|----------|
-| 🔭 Project | Lab Equipment Booking System – Academic support web app |
+| 🔭 Project | CureGen – Mukti Disease Detector web app |
 | ⚙️ Tech Stack | Django • React • AI/ML |
 | 🌱 Learning | Backend optimization & AI integration |
 | 🚀 Goal | Deploy scalable real-world applications |
