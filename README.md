@@ -37,7 +37,7 @@
 | 🚀 Focus Area | 💡 Details |
 |--------------|----------|
 | 🔭 Project | Open Source Contribution |
-| ⚙️ Tech Stack | Django • React • AI/ML |
+| ⚙️ Tech Stack | Django • React • AI/ML | GSSOC'26
 | 🌱 Learning | Backend optimization & AI integration |
 | 🚀 Goal | Deploy scalable real-world applications |
 
