@@ -36,7 +36,7 @@
 
 | 🚀 Focus Area | 💡 Details |
 |--------------|----------|
-| 🔭 Project | CureGen – Mukti Disease Detector web app |
+| 🔭 Project | Open Source Contribution |
 | ⚙️ Tech Stack | Django • React • AI/ML |
 | 🌱 Learning | Backend optimization & AI integration |
 | 🚀 Goal | Deploy scalable real-world applications |
