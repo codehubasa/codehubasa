@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00F7FF;">Asmita Banerjee</span></h1>
+<h1 align="center">Hi 👋 I'm <span style="color:#00F7FF;">Asmita Banerjee</span></h1>
 
 <h3 align="center">🚀 AI/ML Enthusiast | 💻 Full-Stack Developer | 🌱 Open to Learning</h3>
 
